@@ -1,3 +1,9 @@
+All Credit goes to respective owner
+I just try to learn and do some modifications that i can do
+
+# Refer Maclinz
+(https://github.com/Maclinz/gradient_animated_site/tree/931fe24f1cdff6695ffb528a70a1ff89c9838450)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
